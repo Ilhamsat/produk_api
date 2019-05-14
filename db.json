@@ -1,0 +1,153 @@
+{"products":
+[{
+  "id": 1,
+  "product_name": "Bar Energy Chocchip",
+  "price": "Zloty",
+  "stock": 73
+}, {
+  "id": 2,
+  "product_name": "Mints - Striped Red",
+  "price": "Kuna",
+  "stock": 41
+}, {
+  "id": 3,
+  "product_name": "Juice - Orange 1.89l",
+  "price": "Rupiah",
+  "stock": 14
+}, {
+  "id": 4,
+  "product_name": "Beer - Fruli",
+  "price": "Zloty",
+  "stock": 88
+}, {
+  "id": 5,
+  "product_name": "Parsnip",
+  "price": "Euro",
+  "stock": 97
+}, {
+  "id": 6,
+  "product_name": "Juice Peach Nectar",
+  "price": "Koruna",
+  "stock": 80
+}, {
+  "id": 7,
+  "product_name": "Chevril",
+  "price": "Rupiah",
+  "stock": 78
+}, {
+  "id": 8,
+  "product_name": "Cheese - Cheddar With Claret",
+  "price": "Ruble",
+  "stock": 91
+}, {
+  "id": 9,
+  "product_name": "Longos - Grilled Chicken With",
+  "price": "Bolivar",
+  "stock": 26
+}, {
+  "id": 10,
+  "product_name": "Marjoram - Fresh",
+  "price": "Rupiah",
+  "stock": 49
+}, {
+  "id": 11,
+  "product_name": "Beer - Upper Canada Lager",
+  "price": "Euro",
+  "stock": 5
+}, {
+  "id": 12,
+  "product_name": "Bread - Bistro White",
+  "price": "Yuan Renminbi",
+  "stock": 55
+}, {
+  "id": 13,
+  "product_name": "Beef - Striploin Aa",
+  "price": "Peso",
+  "stock": 39
+}, {
+  "id": 14,
+  "product_name": "Red Pepper Paste",
+  "price": "Rial",
+  "stock": 57
+}, {
+  "id": 15,
+  "product_name": "Nori Sea Weed",
+  "price": "Yen",
+  "stock": 93
+}, {
+  "id": 16,
+  "product_name": "Wine - White, Antinore Orvieto",
+  "price": "Yuan Renminbi",
+  "stock": 87
+}, {
+  "id": 17,
+  "product_name": "Chivas Regal - 12 Year Old",
+  "price": "Euro",
+  "stock": 11
+}, {
+  "id": 18,
+  "product_name": "Cheese - Cheddarsliced",
+  "price": "Won",
+  "stock": 36
+}, {
+  "id": 19,
+  "product_name": "Chicken - Ground",
+  "price": "Krona",
+  "stock": 14
+}, {
+  "id": 20,
+  "product_name": "Cake - Cheese Cake 9 Inch",
+  "price": "Yuan Renminbi",
+  "stock": 38
+}, {
+  "id": 21,
+  "product_name": "Pie Shell - 9",
+  "price": "Yuan Renminbi",
+  "stock": 49
+}, {
+  "id": 22,
+  "product_name": "Sugar - Monocystal / Rock",
+  "price": "Ruble",
+  "stock": 74
+}, {
+  "id": 23,
+  "product_name": "Bacardi Breezer - Strawberry",
+  "price": "Peso",
+  "stock": 27
+}, {
+  "id": 24,
+  "product_name": "Otomegusa Dashi Konbu",
+  "price": "Rupiah",
+  "stock": 57
+}, {
+  "id": 25,
+  "product_name": "Crab - Dungeness, Whole, live",
+  "price": "Euro",
+  "stock": 92
+}, {
+  "id": 26,
+  "product_name": "Wine - Sauvignon Blanc Oyster",
+  "price": "Yen",
+  "stock": 76
+}, {
+  "id": 27,
+  "product_name": "Fish - Base, Bouillion",
+  "price": "Yen",
+  "stock": 75
+}, {
+  "id": 28,
+  "product_name": "Cheese - Comtomme",
+  "price": "Euro",
+  "stock": 24
+}, {
+  "id": 29,
+  "product_name": "Almonds Ground Blanched",
+  "price": "Peso",
+  "stock": 27
+}, {
+  "id": 30,
+  "product_name": "Banana",
+  "price": "Real",
+  "stock": 29
+}]
+}
